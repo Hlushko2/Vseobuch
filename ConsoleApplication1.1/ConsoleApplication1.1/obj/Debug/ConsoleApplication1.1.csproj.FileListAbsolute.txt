@@ -1,0 +1,12 @@
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\bin\Debug\ConsoleApplication1.1.exe.config
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\bin\Debug\ConsoleApplication1.1.exe
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\bin\Debug\ConsoleApplication1.1.pdb
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\bin\Debug\EntityFramework.dll
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\bin\Debug\EntityFramework.xml
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\obj\Debug\ConsoleApplication1.1.csprojResolveAssemblyReference.cache
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\obj\Debug\ConsoleApplication1._1.Properties.Resources.resources
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\obj\Debug\ConsoleApplication1.1.csproj.GenerateResource.Cache
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\obj\Debug\ConsoleApplication1.1.exe
+F:\Vseobuch\ConsoleApplication1.1\ConsoleApplication1.1\obj\Debug\ConsoleApplication1.1.pdb
